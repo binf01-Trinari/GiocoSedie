@@ -6,7 +6,8 @@ package gioco_sedie;
 
 /**
  *
- * @author Studente
+ * @author Christian Trinari
+ * @version 12/01/23
  */
 
 class Posto
